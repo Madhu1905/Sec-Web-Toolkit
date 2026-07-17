@@ -1,4 +1,4 @@
-🔐 CyberSec Web Toolkit
+🔐 Sec Web Toolkit
 
 A powerful web-based cybersecurity toolkit built with Flask, designed to provide essential security functionalities, including:
 
